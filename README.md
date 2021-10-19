@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Crud com Laravel 8, MVC, Templates login e Rotas, pronto para voce usar nos seus projetos 
+## CRUD COM LARAVEL 8, MVC, LOGIN E ROTAS, PRONTO PARA VOCE USAR NOS SEUS PROJETOS.
+* Para rodar o Crud é preciso instalar o composer e um servidor localhost Wamp ou Xampp
 
   ##
 
